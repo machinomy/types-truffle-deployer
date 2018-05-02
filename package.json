@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/machinomy/types-truffle-deployer#readme",
   "dependencies": {
-    "@machinomy/types-truffle-contract": "https://github.com/machinomy/types-truffle-contract",
+    "@machinomy/types-truffle-contract": "^0.0.3",
     "truffle-contract": "^3.0.2",
     "truffle-deployer": "^2.0.1"
   }
