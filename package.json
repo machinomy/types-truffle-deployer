@@ -1,5 +1,5 @@
 {
-  "name": "types-truffle-deployer",
+  "name": "@machinomy/types-truffle-deployer",
   "version": "0.0.2",
   "description": "TypeScript declaration for truffle-deployer package",
   "main": "index.d.js",
